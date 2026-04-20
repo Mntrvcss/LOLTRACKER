@@ -1,0 +1,29 @@
+{
+  "targetRank": "Master+",
+  "players": [
+    {
+      "nickname": "Sol",
+      "role": "Mid / shotcaller",
+      "gameName": "Eyes Of Lies",
+      "tagLine": "6XX",
+      "platform": "LA2",
+      "color": "#65d6ff"
+    },
+    {
+      "nickname": "Oscar",
+      "role": "Jungle / carry",
+      "gameName": "caballo ganador",
+      "tagLine": "0903",
+      "platform": "LA1",
+      "color": "#1df2a0"
+    },
+    {
+      "nickname": "Jade",
+      "role": "Support / tiltproof",
+      "gameName": "IRELIAING",
+      "tagLine": "JADE",
+      "platform": "LA2",
+      "color": "#ebff00"
+    }
+  ]
+}
