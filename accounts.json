@@ -1,0 +1,86 @@
+{
+  "targetRank": "Master+",
+  "players": [
+    {
+      "nickname": "Monster",
+      "role": "",
+      "gameName": "M\u00f3nster",
+      "tagLine": "LAN",
+      "platform": "LA1",
+      "color": "#65d6ff",
+      "opggUrl": "https://op.gg/es/lol/summoners/LAN/M%C3%B3nster-LAN"
+    },
+    {
+      "nickname": "Zempai",
+      "role": "",
+      "gameName": "Zempai",
+      "tagLine": "115",
+      "platform": "LA1",
+      "color": "#1df2a0",
+      "opggUrl": "https://op.gg/es/lol/summoners/LAN/Zempai-115"
+    },
+    {
+      "nickname": "superjean09",
+      "role": "",
+      "gameName": "superjean09",
+      "tagLine": "LAN",
+      "platform": "LA1",
+      "color": "#ebff00",
+      "opggUrl": "https://op.gg/es/lol/summoners/lan/superjean09-LAN"
+    },
+    {
+      "nickname": "Jows",
+      "role": "",
+      "gameName": "Jows",
+      "tagLine": "RpTM",
+      "platform": "LA1",
+      "color": "#ff8452",
+      "opggUrl": "https://op.gg/es/lol/summoners/lan/Jows-RpTM"
+    },
+    {
+      "nickname": "Yoyi 0714",
+      "role": "",
+      "gameName": "Yoyi",
+      "tagLine": "0714",
+      "platform": "LA1",
+      "color": "#7eb6ff",
+      "opggUrl": "https://op.gg/es/lol/summoners/lan/Yoyi-0714"
+    },
+    {
+      "nickname": "Yoyi xRDx",
+      "role": "",
+      "gameName": "Yoyi",
+      "tagLine": "xRDx",
+      "platform": "LA1",
+      "color": "#59d6dd",
+      "opggUrl": "https://op.gg/es/lol/summoners/lan/Yoyi-xRDx"
+    },
+    {
+      "nickname": "ElMalvado12",
+      "role": "",
+      "gameName": "ElMalv\u00e1do12",
+      "tagLine": "7506",
+      "platform": "LA1",
+      "color": "#c08cff",
+      "opggUrl": "https://op.gg/es/lol/summoners/lan/ElMalv%C3%A1do12-7506"
+    },
+    {
+      "nickname": "Teufel H",
+      "role": "",
+      "gameName": "Teufel H",
+      "tagLine": "LAN",
+      "platform": "LA1",
+      "color": "#ff7a7a",
+      "opggUrl": "https://op.gg/es/lol/summoners/lan/Teufel%20H-LAN"
+    },
+    {
+      "nickname": "MonkeyD",
+      "role": "",
+      "gameName": "M\u00f3nkeyD",
+      "tagLine": "LAN",
+      "platform": "LA1",
+      "color": "#f3c55a",
+      "opggUrl": "https://op.gg/es/lol/summoners/lan/M%C3%B3nkeyD-LAN"
+    }
+  ]
+}
